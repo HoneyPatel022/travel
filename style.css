@@ -194,6 +194,9 @@ section{
     header .nav{
        display: none;
     }
+    header .content h1{
+        font-size: 40px;
+    }
     header .nav.active{
         position: fixed;
         width: 100%;
